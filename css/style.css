@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: "Roboto", serif;
+    color: #080808;
 }
 .navbar-nav.me-auto{
     margin-left: auto!important;
@@ -86,6 +87,7 @@ body{
 .banner-section-wrapper{
     background-color: #00255B;
     padding: 0px 100px;
+    border-radius: 0px 50px 50px 50px;
 }
 h1.banner-title{
     color: #ffffff;
@@ -99,3 +101,40 @@ h1.banner-title{
 .banner-image{
     margin-top: -50px;
 }
+.software-logos-wrapper ul{
+    margin: 0px;
+    padding: 40px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.software-logos-wrapper ul li{
+    list-style: none;
+    display: inline-block;
+}
+.gallery .tags-bar{
+    justify-content: flex-end !important;
+  }
+
+  .gallery .nav-pills .nav-link.active,.gallery .nav-pills .show>.nav-link{
+    background-color: #F5F5F5;
+    color: #080808;
+  }
+  .gallery .nav-link{
+    color: #080808;
+    text-transform: capitalize;
+  }
+  .gallery-title{
+    margin-bottom: -60px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .new-courses-section{
+        padding-top: 60px;
+  }
+  .modal-body img{
+    width: 100%;
+  }
+  .gallery-item img{
+    width: 100%;
+  }
