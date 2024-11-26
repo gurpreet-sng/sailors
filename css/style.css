@@ -131,10 +131,83 @@ h1.banner-title{
   }
   .new-courses-section{
         padding-top: 60px;
+        padding-bottom: 60px;
   }
   .modal-body img{
     width: 100%;
   }
   .gallery-item img{
     width: 100%;
+  }
+  .gallery-items-row.row{
+    min-height: 500px;
+  }
+  .gallery-item-images{
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .course-info-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .course-info{
+    font-size: 13px;
+  }
+  .gallery-item-content{
+    margin-top: 20px;
+  }
+  .gallery-item-content h6{
+    color: #080808;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .gallery-item-footer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .gallery-item-footer img{
+    width: auto;
+    width: 8px;
+  }
+  .gallery-item-footer .btn-style{
+    padding: 10px 20px;
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .gallery-item-footer h5{
+    font-size: 16px;
+  }
+  .gallery-item{
+    border: 1px solid #F1F1F1;
+    border-radius: 12px;
+    background-color: #FAFAFA;
+    padding: 10px 10px 20px;
+  }
+  .book-demo-section{
+    background-image: url("../images/bgg.jpg");
+    background-size: cover;
+  }
+  .space-top-bottom{
+    padding: 100px 0px;
+  }
+  .book-demo-section h2{
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  .book-demo-content ul li{
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  .book-demo-content ul{
+    margin-top: 20px;
+  }
+  .book-demo-content p{
+    color: #ffffff;
+    font-size: 19px;
+    margin-bottom: 20px;
   }
