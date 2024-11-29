@@ -211,3 +211,85 @@ h1.banner-title{
     font-size: 19px;
     margin-bottom: 20px;
   }
+
+  .landing-page-title h3.fusion-title-heading{
+    font-size: 30px !important;
+  }
+  .landing-page-title-h4 h4.fusion-title-heading{
+    font-size: 25px !important;
+  }
+  .stars span{
+    color: #FF9E2A;
+  }
+  .stars{
+    color: #ffffff;
+  }
+  .book-free-demo-form{
+    text-align: center;
+    color: #0B6BD9;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 40px;
+  }
+  .book-free-demo-form h2{
+    color: #0B6BD9;
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .book-free-demo-form .form-control, .book-free-demo-form  .form-select{
+    border: 1px solid #C5C5C5;
+    background-color: #F4F8FB;
+    height: 55px;
+    border-radius: 10px;
+  }
+  .form-select:focus{
+    box-shadow: none;
+  }
+  .book-free-demo-form .btn.btn-primary{
+    background-color: #080808;
+    border: 0px;
+    width: 100%;
+    height: 73px;
+    font-size: 17px;
+    border-radius: 12px;
+    margin-top: 30px;
+  }
+  .book-free-demo-form .btn.btn-primary i{
+    margin-left: 10px;
+  }
+  .limited-seats{
+    text-align: right;
+    margin-right: -150px;
+    margin-top: -150px;
+  }
+  .instructor-image img{
+    border-radius: 10px;
+    width: 100%;
+  }
+  .instructor-image{
+    overflow: hidden;
+  }
+  .instructor-info{
+    display: flex;
+    justify-content: space-between;
+  }
+  .instructor-info p{
+    font-size: 12px;
+    color: #dddddd;
+    margin: 0px;
+  }
+  .instructor-info b{
+    color: #3E3232;
+    font-size: 13px;
+    margin: 0px;
+  }
+  .instructor-box{
+    margin-bottom: 20px;
+    border: 1px solid #F1F1F1;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 12px;
+  }
+  .instructor-info{
+    padding: 20px 5px 10px;
+  }
