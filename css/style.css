@@ -293,3 +293,11 @@ h1.banner-title{
   .instructor-info{
     padding: 20px 5px 10px;
   }
+  .section-title h3{
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 20px;
+  }
+  .section-title .btn.btn-style{
+    margin-top: 20px;
+  }
