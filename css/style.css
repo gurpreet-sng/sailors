@@ -388,7 +388,7 @@ h1.banner-title{
  .read-more-shape i{
     position: absolute;
     right: 40px;
-    top: -20px;
+    top: 20px;
     bottom: 0;
     margin: auto;
  }
@@ -410,4 +410,6 @@ h1.banner-title{
   text-align: left;
   font-size: 20px;
   margin-right: 40px;
+  font-weight: 500;
+  margin-top: 40px;
 }
