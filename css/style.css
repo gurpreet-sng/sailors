@@ -49,6 +49,10 @@ body{
     padding: 20px 30px;
     border-radius: 12px;
 }
+.btn-style:hover{
+  background-color: #ff4c83;
+  color: #ffffff;
+}
 .btn.btn-style i{
     margin-left: 10px;
 }
@@ -301,3 +305,109 @@ h1.banner-title{
   .section-title .btn.btn-style{
     margin-top: 20px;
   }
+  .our-instructors-section-wrapper{
+    background-image: url("../images/Instructor-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .our-instructors-section-wrapper .btn.btn-style{
+
+  }
+  .nine-instructor{
+    text-align: right;
+    margin-top: -85px;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  .section-title span{
+    background: -webkit-linear-gradient(#FAC1F1, #B176F2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .join-thriving-community-section .container-fluid{
+    background-color: #0D99FF;
+    border-radius: 50px 50px 0px 50px;
+    padding:60px;
+    background-image: url("../images/thriving-bg.png");
+    background-position: right top;
+    background-repeat: no-repeat;
+  }
+ .join-thriving-text h2{
+    font-size: 70px;
+    line-height: 80px;
+    color: #ffffff;
+    font-weight: 700;
+ }
+ .join-thriving-text p{
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 38px;
+    margin: 30px 0px 0px;
+}
+ .users-images{
+  display: flex;
+  align-items: center;
+ }
+ .users-images p{
+  margin: 0px 20px;
+  padding: 0px;
+ }
+ .users-images{
+  margin-top: 50px;
+ }
+ .join-thriving-community-section{
+  padding: 0px 40px;
+  position: relative;
+ }
+ .thriving-feature{
+  padding: 40px 60px;
+  background-color: #FFFFFF;
+  border-radius: 35px;
+ }
+ .numbering-section-wrapper{
+  padding: 40px 0px;
+ }
+ .numbering p{
+  margin-bottom: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  color: #414a57;
+ }
+ .numbering h3{
+    color: #0B1727;
+    font-size: 54px;
+    font-weight: 600;
+ }
+ .read-more-shape{
+  background-image: url("../images/shape.png");
+  width: 605px;
+  height: 145px;
+  margin-top: -1px;
+  position: relative;
+ }
+ .read-more-shape i{
+    position: absolute;
+    right: 40px;
+    top: -20px;
+    bottom: 0;
+    margin: auto;
+ }
+ .read-more-shape-wrapper{
+  position: absolute;
+    right: 40px;
+    bottom: -144px;
+    top: auto;
+    text-align: right;
+ }
+ .read-more-shape a {
+  border-radius: 50px;
+  background-color: #0B6BD9;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 40px;
+  width: 300px;
+  display: inline-block;
+  text-align: left;
+  font-size: 20px;
+  margin-right: 40px;
+}
