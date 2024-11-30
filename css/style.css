@@ -329,7 +329,7 @@ h1.banner-title{
     border-radius: 50px 50px 0px 50px;
     padding:60px;
     background-image: url("../images/thriving-bg.png");
-    background-position: right top;
+    background-position: right -50px;
     background-repeat: no-repeat;
   }
  .join-thriving-text h2{
